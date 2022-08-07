@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luquinhas7584
 - 👀 I’m interested in Programar
 - 🌱 I’m currently learning Programar
-- 💞️ I’m looking to collaborate on Progrmação
+- 💞️ I’m looking to collaborate on Programação
 - 📫 How to reach me 🤷
 
 <!---
